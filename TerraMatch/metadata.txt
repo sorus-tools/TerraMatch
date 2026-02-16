@@ -1,0 +1,17 @@
+[general]
+name=TerraMatch
+qgisMinimumVersion=3.34
+version=0.1.1
+author=Ben Bishop
+email=benjamin.james.bishop@gmail.com
+description=Create binary fruit-climate suitability rasters from training points and mixed raster/polygon predictors.
+about=TerraMatch builds a composite suitability raster by extracting predictor values at known success points, deriving per-layer criteria, and applying strict all-layer matching with NoData-as-unsuitable behavior. Supports raster and polygon predictors, per-layer buffer %, clicked or layer-based training points, and detailed run reports for debugging.
+category=Analysis
+hasProcessingProvider=yes
+tags=suitability,climate,fruit,agriculture,raster,vector,polygon,training,criteria
+experimental=False
+deprecated=False
+homepage=https://github.com/sorus-tools/TerraMatch
+repository=https://github.com/sorus-tools/TerraMatch
+tracker=https://github.com/sorus-tools/TerraMatch/issues
+license=GPL-2.0-or-later
