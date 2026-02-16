@@ -1,7 +1,7 @@
 [general]
 name=TerraMatch
 qgisMinimumVersion=3.34
-version=0.1.1
+version=1.0
 author=Ben Bishop
 email=benjamin.james.bishop@gmail.com
 description=Create binary fruit-climate suitability rasters from training points and mixed raster/polygon predictors.
