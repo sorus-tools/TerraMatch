@@ -1,6 +1,6 @@
 # TerraMatch (QGIS Plugin)
 
-TerraMatch builds binary suitability rasters from known successful training points and mixed predictors (rasters and polygon vectors).
+TerraMatch builds binary suitability rasters from known successful training points and mixed predictors (rasters and polygon vectors) for any suitability workflow.
 
 ## What It Does
 
