@@ -1,7 +1,7 @@
 [general]
 name=TerraMatch
 qgisMinimumVersion=3.34
-version=1.0
+version=1.1
 author=Ben Bishop
 email=benjamin.james.bishop@gmail.com
 description=Create binary suitability rasters from training points and mixed raster/polygon predictors.
